@@ -38,10 +38,7 @@
     <File path="miles/msssoft.m3d" update="false" checksum="3e9029826d8cb962874584ab795a9d31" url="https://drive.google.com/uc?export=download&amp;confirm=t&amp;id=1mt4seG3WuXiI1iYOqr-Ad0qOJZNkcVJq"/>
 
     <!-- Custom mods -->
-    <File path="Mod_Project_Borfection.tre" update="true" checksum="276d8c254417e1de1178e3f693a8720f" url="https://drive.google.com/uc?export=download&amp;confirm=t&amp;id=YOUR_BORFECTION_ID"/>
-    <File path="Mod_NGE_Species.tre" update="true" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://drive.google.com/uc?export=download&amp;confirm=t&amp;id=YOUR_NGE_SPECIES_ID"/>
-    <File path="Mod_Smooth_Movement.tre" update="true" checksum="5d4c3bc520cd38dccf29d274684f372c" url="https://drive.google.com/uc?export=download&amp;confirm=t&amp;id=YOUR_SMOOTH_MOVEMENT_ID"/>
-    <File path="Mod_Sound.tre" update="true" checksum="52a0b18332186c3c72df722a329ed4e5" url="https://drive.google.com/uc?export=download&amp;confirm=t&amp;id=1Q7xvFrJjCiPYJYg0a1eFl6O7Ladtj0MW"/>
+    
 </Files>
 
 <TREOrder count="60">
