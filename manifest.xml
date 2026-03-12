@@ -2,7 +2,6 @@
 <ManifestFile>
     <Files>
         <!-- DLLs -->
-        
         <File path="dpvs.dll" update="false" checksum="fd25c516087edba23f1f403a65769240" url="https://drive.google.com/uc?export=download&confirm=t&id=1_FaEMi76iAk-kzVDfe1AJPF9TtCHPVii"/>
         <File path="em05_u.dll" update="false" checksum="eb9bcae9c82ccbb29f0a8c83d26891a8" url="https://drive.google.com/uc?export=download&confirm=t&id=1HSoX-2wvZQtGnb-ac3yUtgBcQFV6aJP6"/>
         <File path="em06_u.dll" update="false" checksum="216200d43550b79f6895baeeea3f3138" url="https://drive.google.com/uc?export=download&confirm=t&id=14ijUImeEb4V5Is176OdDwz348XztsRgw"/>
@@ -13,9 +12,8 @@
         <File path="s206_r.dll" update="false" checksum="c95f52d9d81c5d62e774f9f1250b6b76" url="https://drive.google.com/uc?export=download&confirm=t&id=1XbbY7HRyU1m5EQJYWfgM4wJG9smDxoyL"/>
         <File path="s207_r.dll" update="false" checksum="593574e730ef8eecbf42c9a440bdcbd6" url="https://drive.google.com/uc?export=download&confirm=t&id=1CoDhI7KlA2EpPulxRjpmGapsckX70YHo"/>
         <File path="dbghelp.dll" update="false" checksum="21e77bcbe81c83284aeea5127c197718" url="https://drive.google.com/uc?export=download&confirm=t&id=1ALuDSR3e3mPHObRsgD1hJ4IubwZPUDev"/>
-
-        <!-- MTG Patches -->
         
+        <!-- MTG Patches -->
         <File path="mtg_patch_001_appearance_01.tre" update="false" checksum="9d3542a7a50e55aa2a0202af944933b7" url="https://drive.google.com/uc?export=download&confirm=t&id=1Vxv5Qk8q64MzWjfMKxtnh36JF7FWuE6w"/>
         <File path="mtg_patch_002_appearance_02.tre" update="false" checksum="3b38b9e73ec985a1ab6569adf6b1e5b4" url="https://drive.google.com/uc?export=download&confirm=t&id=1qz9zc-WJKmjDJfaG9orp4dy1vfe32Ulj"/>
         <File path="mtg_patch_003_appearance_03.tre" update="false" checksum="03ab7e158ff6d815786e1f9d0b027f35" url="https://drive.google.com/uc?export=download&confirm=t&id=1Q1Lj3CX4UjghotCSWU0dOMy5T50bYkOo"/>
@@ -40,16 +38,16 @@
         <File path="mtg_patch_022.tre" update="false" checksum="7531403a209c952c4fdbd13a1d3aea69" url="https://drive.google.com/uc?export=download&confirm=t&id=1ef3ZTaWrMnBmM_JOEqt6zJRwDe6XrbtI"/>
         <File path="mtg_patch_023.tre" update="false" checksum="REPLACE_WITH_ACTUAL_CHECKSUM" url="https://drive.google.com/uc?export=download&confirm=t&id=1TfDVxvRnAvtqnxbFafpagqO940R5DdyP"/>
         <File path="mtg_planets.tre" update="false" checksum="REPLACE_WITH_ACTUAL_CHECKSUM" url="https://drive.google.com/uc?export=download&confirm=t&id=1mt4seG3WuXiI1iYOqr-Ad0qOJZNkcVJq"/>
-
+        
         <!-- SWGEmu.exe and Setup -->
         
         <File path="SWGEmu.exe" update="false" checksum="REPLACE_WITH_ACTUAL_CHECKSUM" url="https://drive.google.com/uc?export=download&confirm=t&id=1GOuyWeYPkSuRDEV8cXfv2u8KoBe3ipkM"/>
         <File path="SWGEmu_Setup.exe" update="false" checksum="REPLACE_WITH_ACTUAL_CHECKSUM" url="https://drive.google.com/uc?export=download&confirm=t&id=1TTvyN6cN-YIZHG3PXHEUjDgmZz5F6n8Y"/>
-
+        
         <!-- Config files -->
         
         <File path="swgemu.cfg" update="false" checksum="REPLACE_WITH_ACTUAL_CHECKSUM" url="https://drive.google.com/uc?export=download&confirm=t&id=1w4XgubNUFS1gf-UnQ_XUzz7_nXr00sMp"/>
-
+        
         <!-- Miles files -->
         
         <File path="miles/mssdsp.flt" update="false" checksum="b88bf9c506cd612fc37b47ad2e1c84b6" url="https://drive.google.com/uc?export=download&confirm=t&id=1YiHj2UiYRTylZWjlYwmAMJQ3c3ahLguO"/>
@@ -99,4 +97,5 @@
         <ServerName>Revanite</ServerName>
     </ServerInfo>
 </ManifestFile>
+
 
