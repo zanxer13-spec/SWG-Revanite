@@ -2,8 +2,8 @@
 <ManifestFile>
     <Files>
         <!-- DLLs -->
-        
-        <File path="dpvs.dll" update="false" checksum="fd25c516087edba23f1f403a65769240" url="https://drive.google.com/uc?export=download&confirm=t&id=1_FaEMi76iAk-kzVDfe1AJPF9TtCHPVii"/>
+    
+        <File path="dpvs.dll" update="false", checksum="fd25c516087edba23f1f403a65769240" url="https://drive.google.com/uc?export=download&confirm=t&id=1_FaEMi76iAk-kzVDfe1AJPF9TtCHPVii"/>
         <File path="em05_u.dll" update="false" checksum="eb9bcae9c82ccbb29f0a8c83d26891a8" url="https://drive.google.com/uc?export=download&confirm=t&id=1HSoX-2wvZQtGnb-ac3yUtgBcQFV6aJP6"/>
         <File path="em06_u.dll" update="false" checksum="216200d43550b79f6895baeeea3f3138" url="https://drive.google.com/uc?export=download&confirm=t&id=14ijUImeEb4V5Is176OdDwz348XztsRgw"/>
         <File path="em07_u.dll" update="false" checksum="6be3fce7f2aafb441e8fc33073f00d84" url="https://drive.google.com/uc?export=download&confirm=t&id=16e10h0GJTyxPaKUPy37FUqaP9HBGcI-F"/>
@@ -99,6 +99,7 @@
         <ServerName>Revanite</ServerName>
     </ServerInfo>
 </ManifestFile>
+
 
 
 
