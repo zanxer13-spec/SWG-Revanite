@@ -2,6 +2,7 @@
 <ManifestFile>
     <Files>
         <!-- DLLs -->
+        
         <File path="dpvs.dll" update="false" checksum="fd25c516087edba23f1f403a65769240" url="https://drive.google.com/uc?export=download&confirm=t&id=1_FaEMi76iAk-kzVDfe1AJPF9TtCHPVii"/>
         <File path="em05_u.dll" update="false" checksum="eb9bcae9c82ccbb29f0a8c83d26891a8" url="https://drive.google.com/uc?export=download&confirm=t&id=1HSoX-2wvZQtGnb-ac3yUtgBcQFV6aJP6"/>
         <File path="em06_u.dll" update="false" checksum="216200d43550b79f6895baeeea3f3138" url="https://drive.google.com/uc?export=download&confirm=t&id=14ijUImeEb4V5Is176OdDwz348XztsRgw"/>
@@ -14,6 +15,7 @@
         <File path="dbghelp.dll" update="false" checksum="21e77bcbe81c83284aeea5127c197718" url="https://drive.google.com/uc?export=download&confirm=t&id=1ALuDSR3e3mPHObRsgD1hJ4IubwZPUDev"/>
         
         <!-- MTG Patches -->
+        
         <File path="mtg_patch_001_appearance_01.tre" update="false" checksum="9d3542a7a50e55aa2a0202af944933b7" url="https://drive.google.com/uc?export=download&confirm=t&id=1Vxv5Qk8q64MzWjfMKxtnh36JF7FWuE6w"/>
         <File path="mtg_patch_002_appearance_02.tre" update="false" checksum="3b38b9e73ec985a1ab6569adf6b1e5b4" url="https://drive.google.com/uc?export=download&confirm=t&id=1qz9zc-WJKmjDJfaG9orp4dy1vfe32Ulj"/>
         <File path="mtg_patch_003_appearance_03.tre" update="false" checksum="03ab7e158ff6d815786e1f9d0b027f35" url="https://drive.google.com/uc?export=download&confirm=t&id=1Q1Lj3CX4UjghotCSWU0dOMy5T50bYkOo"/>
@@ -97,5 +99,6 @@
         <ServerName>Revanite</ServerName>
     </ServerInfo>
 </ManifestFile>
+
 
 
