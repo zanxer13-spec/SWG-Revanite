@@ -28,7 +28,7 @@
 <!--  Config files  -->
 <File path="swgemu_live.cfg" update="false" checksum="" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/swgemu_live.cfg"/>
 <!--  Custom mods  -->
-<File path="Mod_NGE_Species.tre" update="true" checksum="" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/species.tre"/>
+<File path="Mod_NGE_Species.tre" update="true" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/species.tre"/>
 <TREOrder count="60">
 <TRE pos="49" file="mtg_patch_023.tre"/>
 <TRE pos="48" file="mtg_patch_022.tre"/>
