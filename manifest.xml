@@ -23,12 +23,16 @@
 <File path="mtg_patch_022.tre" update="false" checksum="7531403a209c952c4fdbd13a1d3aea69" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_patch_022.tre"/>
 <File path="mtg_patch_023.tre" update="false" checksum="" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_patch_023.tre"/>
 <File path="mtg_planets.tre" update="false" checksum="" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_planets.tre"/>
+  
 <!--  SWGEmu.exe and Setup  -->
 <File path="SWGEmu.exe" update="false" checksum="" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/SWGEmu.exe"/>
+  
 <!--  Config files  -->
 <File path="swgemu_live.cfg" update="false" checksum="" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/swgemu_live.cfg"/>
+  
 <!--  Custom mods  -->
 <File path="Mod_NGE_Species.tre" update="true" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/species.tre"/>
+
 <TREOrder count="60">
 <TRE pos="49" file="mtg_patch_023.tre"/>
 <TRE pos="48" file="mtg_patch_022.tre"/>
@@ -53,6 +57,7 @@
 <TRE pos="29" file="mtg_patch_002_appearance_02.tre"/>
 <TRE pos="28" file="mtg_patch_001_appearance_01.tre"/>
 </TREOrder>
+
 <ServerInfo>
 <LoginServer>10.212.229.178:44453</LoginServer>
 <ServerName>Revanite</ServerName>
