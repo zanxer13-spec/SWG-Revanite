@@ -25,7 +25,7 @@
 <File path="SWGEmu.exe" update="false" checksum="" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/SWGEmu.exe"/>
 <File path="swgemu_live.cfg" update="false" checksum="" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/swgemu_live.cfg"/>
 <File path="Species.tre" update="true" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/species.tre"/>
-</Files>
+
 <TREOrder count="24">
 <TRE pos="24" file="Species.tre"/>
 <TRE pos="23" file="mtg_patch_023.tre"/>
@@ -56,8 +56,7 @@
 <LoginServer>10.212.229.178:44453</LoginServer>
 <ServerName>Revanite</ServerName>
 </ServerInfo>
-</ManifestFile>
-
+</Files>
 
 
 
