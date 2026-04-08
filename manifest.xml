@@ -22,7 +22,6 @@
 <File path="mtg_patch_022.tre" update="false" checksum="7531403a209c952c4fdbd13a1d3aea69" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_patch_022.tre"/>
 <File path="mtg_patch_023.tre" update="false" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_patch_023.tre"/>
 <File path="mtg_planets.tre" update="false" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_planets.tre"/>
-
 <File path="SWGEmu.exe" update="false" checksum="" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/SWGEmu.exe"/>
 <File path="swgemu_live.cfg" update="false" checksum="" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/swgemu_live.cfg"/>
 <File path="Species.tre" update="true" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/species.tre"/>
